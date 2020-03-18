@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/new.png</file>
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+        <file>img/add.png</file>
+        <file>img/delete.png</file>
+        <file>img/sort.png</file>
+        <file>img/saveAs.png</file>
+        <file>img/exit.png</file>
+    </qresource>
+</RCC>
